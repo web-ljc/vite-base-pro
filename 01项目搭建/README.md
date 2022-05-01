@@ -4,6 +4,7 @@
   ### 创建vue3项目
   - npm init @vitejs/app
   - 选择vue
+  - 导入jsx插件包，可以使用jsx格式 @vitejs/plugin-vue-jsx
 
   ### 创建vue3项目
   - npm init @vitejs/app
@@ -17,3 +18,7 @@
         plugins: [createVuePlugin()]
       }
     ```
+  ### 创建vue3项目
+  - npm init @vitejs/app
+  - 选择react
+
